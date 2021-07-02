@@ -92,7 +92,7 @@ co = 299792458;
 eo = 1/co^2/mu;
 omega = 2*pi*[freq_min freq_max];
 %% extract data information 
-nVoxesl=L*M*N;
+nVoxel=L*M*N;
 rhoVoxel=zeros(nVoxel,1);
 idxV=[]; rhomin=Inf; hhi=1; hho=0;
 for ii = 1:Nmat
