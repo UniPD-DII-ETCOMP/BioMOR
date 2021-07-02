@@ -1,0 +1,20 @@
+ sono arrivato al check numerico
+                     8
+                 48644
+ qui1
+ qui2
+ qui3
+ input 1
+ ho chiamato la subroutine e creato le matrici
+ fatta G
+ prima di mxCreateDoubleMatrix
+ prima di mxCopyReal8ToPtr, sizes C and nf:                     4
+                150773                150773
+ fatta C
+ fatta D
+ prima di mxCreateDoubleMatrix
+ prima di mxCopyReal8ToPtr, sizes F and nf:                     8
+                524288                150773
+ fatta F
+ ho convertito le matrici per matlab
+ ho deallocato la matrice e ora chiudo il log.txt

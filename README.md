@@ -45,9 +45,9 @@ and BioMOR itself
  
  BioMOR toolbox contains parts or modifications of the following codes:
  
- [1] [VoxHenry](https://github.com/acyucel/VoxHenry)
+ [1] [VoxHenry (A. C. Yucel et al., "VoxHenry: FFT-Accelerated Inductance Extraction for Voxelized Geometries," in IEEE Transactions on Microwave Theory and Techniques, vol. 66, no. 4, pp. 1723-1735, April 2018, doi: 10.1109/TMTT.2017.2785842.)](https://github.com/acyucel/VoxHenry) 
  
- [2] [MATAMG](https://github.com/parkmh/MATAMG)
+ [2] [MATAMG - MATLAB Algebraic Multigrid toolbox](https://github.com/parkmh/MATAMG)
  
  [3] [Mesh voxelisation](https://it.mathworks.com/matlabcentral/fileexchange/27390-mesh-voxelisation)
  
