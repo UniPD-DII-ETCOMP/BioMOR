@@ -46,13 +46,20 @@ and BioMOR itself
 
  [3] R. Torchio, "BioMOR toolbox", https://github.com/UniPD-DII-ETCOMP/BioMOR  
  
- BioMOR toolbox contains parts of the following Codes:
+ BioMOR toolbox contains parts or modifications of the following codes:
+ 
  [1] [VoxHenry](https://github.com/acyucel/VoxHenry)
+ 
  [2] [MATAMG](https://github.com/parkmh/MATAMG)
+ 
  [3] [Mesh voxelisation](https://it.mathworks.com/matlabcentral/fileexchange/27390-mesh-voxelisation)
+ 
  [4] [lgwt](https://it.mathworks.com/matlabcentral/fileexchange/4540-legendre-gauss-quadrature-weights-and-nodes)
+ 
  [5] [NIfTI_20140122](https://it.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image)
+ 
  [6] [find graph conected components](https://it.mathworks.com/matlabcentral/fileexchange/33877-find-graph-conected-components)
+ 
  [7] [Generate maximally perceptually-distinct colors](https://it.mathworks.com/matlabcentral/fileexchange/29702-generate-maximally-perceptually-distinct-colors)
 
 Contacts & Authors
