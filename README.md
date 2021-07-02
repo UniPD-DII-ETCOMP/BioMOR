@@ -1,6 +1,3 @@
-<p align="center">
-	<img src="fig.png" width="600">
-</p>
 
 # BioMOR 
 
