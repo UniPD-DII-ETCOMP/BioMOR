@@ -81,9 +81,9 @@ stl_files(1).rhomax=3e-1*1.2;
 scal_geomery.x=1; scal_geomery.y=1; scal_geomery.z=1;
 % Box 
 % number of voxels in the x y z directions
-Nx=40;%110;
-Ny=50;%150;
-Nz=45;%148;
+Nx=80;%110;
+Ny=80;%150;
+Nz=85;%148;
 % corners
 flag_auto=1; % if 1, user_data below are ignored
 % user_data
