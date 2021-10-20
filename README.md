@@ -1,7 +1,7 @@
 
 # BioMOR 
 
-This directory contains a code based on FFT and Moder Ordel Reduction for the parametruc analysis of electromagnetic fields and voxel-based human body interaction
+This directory contains a code based on FFT and Model Order Reduction for the parametruc analysis of electromagnetic fields and voxel-based human body interaction
 
 -------------------------------------------------------------------
 
