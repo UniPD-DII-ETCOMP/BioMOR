@@ -1,0 +1,4 @@
+This folder contains the comparison between the results (in terms of losses) obtained from BioMOR and a Finite Element Commerical Software (COMSOL). 
+Figure "error_losses" shows the converge of the error on the losses with respect to the FEM solution versus the number of voxels. 
+The problem settings are the ones in "FFT_SingleSolution.m".
+Figure "fem_model" shows the mesh used for the FEM model.
