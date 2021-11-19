@@ -1,3 +1,6 @@
+<p align="center">
+	<img src="fig.PNG" width="450">
+</p>
 
 # BioMOR 
 
@@ -35,9 +38,11 @@ Credits
 --------------------
 If you use BioMOR, please consider citing:
  
- [1] [R. Torchio et al., "FFT-PEEC: A Fast Tool From CAD to Power Electronics Simulations," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2021.3092431](https://ieeexplore.ieee.org/document/9465649)
+  [1] R. Torchio et al., "A Fast Tool for the Parametric Analysis of Human Body Exposed to LF Electromagnetic Fields in Biomedical Applications," in  Computer Methods and Programs in Biomedicine, in publishing
  
- [2] [P. Bettini et al., "FFT-VI: a smart approach for the electromagnetic design of complex systems in large fusion devices," in 2020 Plasma Phys. Control. Fusion](https://doi.org/10.1088/1361-6587/abce8f)
+ [2] [R. Torchio et al., "FFT-PEEC: A Fast Tool From CAD to Power Electronics Simulations," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2021.3092431](https://ieeexplore.ieee.org/document/9465649)
+ 
+ [3] [P. Bettini et al., "FFT-VI: a smart approach for the electromagnetic design of complex systems in large fusion devices," in 2020 Plasma Phys. Control. Fusion](https://doi.org/10.1088/1361-6587/abce8f)
  
 and BioMOR itself
 
