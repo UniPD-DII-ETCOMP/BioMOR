@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="fig.png" width="850">
+	<img src="fig.PNG" width="450">
 </p>
 
 # BioMOR 
