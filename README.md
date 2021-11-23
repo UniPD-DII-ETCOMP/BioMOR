@@ -38,7 +38,7 @@ Credits
 --------------------
 If you use BioMOR, please consider citing:
  
-  [1] R. Torchio et al., "A Fast Tool for the Parametric Analysis of Human Body Exposed to LF Electromagnetic Fields in Biomedical Applications," in  Computer Methods and Programs in Biomedicine, in publishing
+  [1] [R. Torchio et al., "A Fast Tool for the Parametric Analysis of Human Body Exposed to LF Electromagnetic Fields in Biomedical Applications," in  Computer Methods and Programs in Biomedicine, doi.org/10.1016/j.cmpb.2021.106543](https://www.sciencedirect.com/science/article/pii/S0169260721006179)
  
  [2] [R. Torchio et al., "FFT-PEEC: A Fast Tool From CAD to Power Electronics Simulations," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2021.3092431](https://ieeexplore.ieee.org/document/9465649)
  
