@@ -2,23 +2,23 @@
 <Xdmf>
 <Domain>
 <Grid Name="Mesh_Grid">
-<Topology NumberOfElements="48644" TopologyType="Hexahedron">
-<DataItem DataType="Int" Dimensions="48644 8" Format="HDF">
+<Topology NumberOfElements="289729" TopologyType="Hexahedron">
+<DataItem DataType="Int" Dimensions="289729 8" Format="HDF">
 test1J.hdf:/mesh/tet
 </DataItem>
 </Topology>
 <Geometry GeometryType="XYZ">
-<DataItem DataType="Float" Dimensions="389152 3" Format="HDF">
+<DataItem DataType="Float" Dimensions="2317832 3" Format="HDF">
 test1J.hdf:/mesh/coord
 </DataItem>
 </Geometry>
 <Attribute AttributeType="Vector" Center="Cell" Name="Vectors_re">
-<DataItem DataType="Float" Dimensions="48644 3" Format="HDF">
+<DataItem DataType="Float" Dimensions="289729 3" Format="HDF">
 test1J.hdf:/mesh/vec_re
 </DataItem>
 </Attribute>
 <Attribute AttributeType="Vector" Center="Cell" Name="Vectors_im">
-<DataItem DataType="Float" Dimensions="48644 3" Format="HDF">
+<DataItem DataType="Float" Dimensions="289729 3" Format="HDF">
 test1J.hdf:/mesh/vec_im
 </DataItem>
 </Attribute>
